@@ -1,1 +1,1 @@
-# Nanodgree-data-anlysis
+# Nanodgree-data-analyze
